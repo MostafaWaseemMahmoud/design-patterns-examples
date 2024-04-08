@@ -41,6 +41,4 @@ function manipulateCounter() {
   counterInstance.decrement();
 }
 
-// First Commit
 manipulateCounter();
-// First Commit
