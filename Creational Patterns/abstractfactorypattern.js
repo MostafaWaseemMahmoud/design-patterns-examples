@@ -1,5 +1,7 @@
 class AbstractFactory {
-  createProduct() {}
+  createProduct() {
+    sandwich.setnameAndcalory("Mostafa", 22);
+  }
 }
 
 class ConcreteFactory1 extends AbstractFactory {
